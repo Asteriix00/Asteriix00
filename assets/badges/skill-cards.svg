@@ -1,0 +1,108 @@
+<svg width="900" height="440" viewBox="0 0 900 440" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glowC1" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- ============ CARD 1: Java Spring Boot (90%) ============ -->
+  <g transform="translate(60,50)">
+    <rect x="0" y="0" width="380" height="140" rx="10" fill="#1A0033" stroke="#9D4EDD" stroke-width="1.3"/>
+    <text x="190" y="46" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="18" font-weight="700" fill="#FFFFFF">JAVA SPRING BOOT</text>
+    <rect x="90" y="60" width="200" height="28" rx="14" fill="#240046" stroke="#FF6EC7" stroke-width="1.4"/>
+    <text x="190" y="79" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" letter-spacing="1.5" fill="#FF6EC7">PUSHING FOR MASTERY</text>
+    <!-- bottom progress strip, 11/12 blocks filled -->
+    <g>
+      <rect x="24" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="52" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="80" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="108" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="136" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="164" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="192" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="220" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="248" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="276" y="112" width="24" height="8" rx="2" fill="#C77DFF" filter="url(#glowC1)">
+        <animate attributeName="opacity" values="1;0.35;1" dur="1.2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="304" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="332" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+    </g>
+  </g>
+
+  <!-- ============ CARD 2: Angular (60%) ============ -->
+  <g transform="translate(460,50)">
+    <rect x="0" y="0" width="380" height="140" rx="10" fill="#1A0033" stroke="#9D4EDD" stroke-width="1.3"/>
+    <text x="190" y="46" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="18" font-weight="700" fill="#FFFFFF">ANGULAR</text>
+    <rect x="90" y="60" width="200" height="28" rx="14" fill="#240046" stroke="#FF6EC7" stroke-width="1.4"/>
+    <text x="190" y="79" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" letter-spacing="1.5" fill="#FF6EC7">IMPROVING</text>
+    <g>
+      <rect x="24" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="52" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="80" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="108" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="136" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="164" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="192" y="112" width="24" height="8" rx="2" fill="#C77DFF" filter="url(#glowC1)">
+        <animate attributeName="opacity" values="1;0.35;1" dur="1.2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="220" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="248" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="276" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="304" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="332" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+    </g>
+  </g>
+
+  <!-- ============ CARD 3: Artificial Intelligence (40%) ============ -->
+  <g transform="translate(60,230)">
+    <rect x="0" y="0" width="380" height="140" rx="10" fill="#1A0033" stroke="#9D4EDD" stroke-width="1.3"/>
+    <text x="190" y="46" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="18" font-weight="700" fill="#FFFFFF">ARTIFICIAL INTELLIGENCE</text>
+    <rect x="90" y="60" width="200" height="28" rx="14" fill="#240046" stroke="#FF6EC7" stroke-width="1.4"/>
+    <text x="190" y="79" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" letter-spacing="1.5" fill="#FF6EC7">EXPLORING</text>
+    <g>
+      <rect x="24" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="52" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="80" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="108" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="136" y="112" width="24" height="8" rx="2" fill="#C77DFF" filter="url(#glowC1)">
+        <animate attributeName="opacity" values="1;0.35;1" dur="1.2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="164" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="192" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="220" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="248" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="276" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="304" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="332" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+    </g>
+  </g>
+
+  <!-- ============ CARD 4: System Design (50%) ============ -->
+  <g transform="translate(460,230)">
+    <rect x="0" y="0" width="380" height="140" rx="10" fill="#1A0033" stroke="#9D4EDD" stroke-width="1.3"/>
+    <text x="190" y="46" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="18" font-weight="700" fill="#FFFFFF">SYSTEM DESIGN</text>
+    <rect x="90" y="60" width="200" height="28" rx="14" fill="#240046" stroke="#FF6EC7" stroke-width="1.4"/>
+    <text x="190" y="79" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" letter-spacing="1.5" fill="#FF6EC7">LEVELING UP</text>
+    <g>
+      <rect x="24" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="52" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="80" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="108" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="136" y="112" width="24" height="8" rx="2" fill="#9D4EDD"/>
+      <rect x="164" y="112" width="24" height="8" rx="2" fill="#C77DFF" filter="url(#glowC1)">
+        <animate attributeName="opacity" values="1;0.35;1" dur="1.2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="192" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="220" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="248" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="276" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="304" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+      <rect x="332" y="112" width="24" height="8" rx="2" fill="none" stroke="#5A189A" stroke-width="1.3"/>
+    </g>
+  </g>
+</svg>
