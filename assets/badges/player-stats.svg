@@ -58,30 +58,30 @@
     <g>
       <rect x="30" y="176" width="900" height="10" rx="5" fill="#240046"/>
       <clipPath id="langClip"><rect x="30" y="176" width="900" height="10" rx="5"/></clipPath>
-      <g clip-path="url(#langClip)"><rect x="30.0" y="176" width="480.6" height="10" fill="#FF8500"/><rect x="510.6" y="176" width="134.1" height="10" fill="#9D4EDD"/><rect x="644.7" y="176" width="123.3" height="10" fill="#0096FF"/><rect x="768.0" y="176" width="105.3" height="10" fill="#2ECC71"/><rect x="873.3" y="176" width="57.6" height="10" fill="#8D99AE"/></g>
+      <g clip-path="url(#langClip)"><rect x="30.0" y="176" width="467.1" height="10" fill="#FF8500"/><rect x="497.1" y="176" width="141.3" height="10" fill="#9D4EDD"/><rect x="638.4" y="176" width="129.6" height="10" fill="#0096FF"/><rect x="768.0" y="176" width="106.2" height="10" fill="#2ECC71"/><rect x="874.2" y="176" width="55.8" height="10" fill="#8D99AE"/></g>
       
           <circle cx="35" cy="202" r="5" fill="#FF8500"/>
           <text x="46" y="206" font-family="JetBrains Mono, monospace" font-size="11" font-weight="700" fill="#E0AAFF">
-            Java 53.4%
+            Java 51.9%
           </text>
           <circle cx="195" cy="202" r="5" fill="#9D4EDD"/>
           <text x="206" y="206" font-family="JetBrains Mono, monospace" font-size="11" font-weight="400" fill="#E0AAFF">
-            C# 14.9%
+            TypeScript 15.7%
           </text>
           <circle cx="355" cy="202" r="5" fill="#0096FF"/>
           <text x="366" y="206" font-family="JetBrains Mono, monospace" font-size="11" font-weight="400" fill="#E0AAFF">
-            TypeScript 13.7%
+            C# 14.4%
           </text>
           <circle cx="35" cy="224" r="5" fill="#2ECC71"/>
           <text x="46" y="228" font-family="JetBrains Mono, monospace" font-size="11" font-weight="400" fill="#E0AAFF">
-            HTML 11.7%
+            HTML 11.8%
           </text>
           <circle cx="195" cy="224" r="5" fill="#8D99AE"/>
           <text x="206" y="228" font-family="JetBrains Mono, monospace" font-size="11" font-weight="400" fill="#E0AAFF">
-            Python 6.4%
+            Python 6.2%
           </text>
     </g>
 
   <text x="940" y="226" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="9"
-        fill="#C77DFF" opacity="0.6">Last updated 14 Nov 2026, 05:54 UTC</text>
+        fill="#C77DFF" opacity="0.6">Last updated 15 Nov 2026, 05:56 UTC</text>
 </svg>
